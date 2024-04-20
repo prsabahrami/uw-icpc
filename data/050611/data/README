@@ -1,7 +1,0 @@
-A       trivial
-B       not so tricky as it looks
-C       straighforward basic geometry but needs some work
-D       simulation will do but there is a closed formula solution
-E       Stefan's n^1.5 is usually faster than mine n log n
-        anything else should be too slow
-
