@@ -1,0 +1,6 @@
+Five of the test inputs for Problem A were retracted after the contest
+because they did not satisfy the problem specification.  All of the
+submissions from the contest were re-tested without the retracted
+test inputs. The re-testing did not change any of the judgements. All
+submissions that failed on the incorrect inputs also failed in the same
+way on some other correct input.

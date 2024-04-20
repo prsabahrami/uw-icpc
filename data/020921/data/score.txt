@@ -1,0 +1,104 @@
+
++------+-------------------------+---------------------+------+
+|userid|        Team Name        |  A   B   C   D   E  | Total|
++------+-------------------------+---------------------+------+
+|acm022|Denis Dmitriev           |  -1  81 116  54  -4 |3  251|
+|acm016|Lars Hellsten            |      70 229  20     |3  319|
+|acm069|Ali Baba                 |     184 207 175  -1 |3  566|
+|acm009|Gordon Chiu              |      37      46  -3 |2   83|
+|acm002|Jonathan Lee             |     133  -1  23  -1 |2  156|
+|acm039|Neil Girdhar             |      47  -1 110  -4 |2  157|
+|acm012|Adrian Tang              |     134  -5  36     |2  170|
+|acm013|Bryan Chan               |  -1 106      82     |2  188|
+|acm021|Peter Lloyd              |      98      91     |2  189|
+|acm024|Ryan Hadley              |     169  -8  49     |2  218|
+|acm054|Sujeevan Rajayogam       |     164      59     |2  223|
+|acm044|Marcin Mika              |     158 -10  66     |2  224|
+|acm019|Steven Corkey            |      94     169     |2  263|
+|acm010|Cory Fletcher            |     165  -6 147     |2  312|
+|acm057|John Pang                |     199  -2 113     |2  312|
+|acm053|Gregory Golds            |  -1 190     156  -3 |2  346|
+|acm036|Tor Myklebuist           |     268  -2  78     |2  346|
+|acm003|Matthew Nichols          |     202     160     |2  362|
+|acm062|Joe Rideout              |     240  -2 182     |2  422|
+|acm027|William Alex Stevenson   |     198 243  -2     |2  441|
+|acm008|Shuo Xiang               |      -4  -4  46     |1   46|
+|acm006|Samuel Wong              |      -3      70  -3 |1   70|
+|acm020|Jason Thean              |          -1  78  -1 |1   78|
+|acm052|James Schofield          |      -6  -4  82     |1   82|
+|acm001|Tamas Zsebe              |  -1  -7      90     |1   90|
+|acm015|Stephan Lachowsky        |          -1 106     |1  106|
+|acm064|Thomas Mulcahy           |      -5  -3 133     |1  133|
+|acm038|William Slofstra         |      -5  -5 137     |1  137|
+|acm004|John Admanski            |      -3     162     |1  162|
+|acm041|Thomas Zamojski          |     166             |1  166|
+|acm066|Farhad Roueintan         |      -2     193     |1  193|
+|acm028|Trevor Hogan             |      -7     224     |1  224|
+|acm070|Kartikaya Gupta          |     237      -4     |1  237|
+|acm033|Erik Bourget             |      -8  -3  -8     |0    0|
+|acm017|Matei Zaharia            |      -9  -3      -2 |0    0|
+|acm071|Alex Kennberg            |      -3  -3         |0    0|
+|acm025|Michael Huang            |      -3      -6     |0    0|
+|acm068|Arjuna Sivasithambaresan |      -7      -2     |0    0|
+|acm065|Matthew Ouyang           |      -1      -2     |0    0|
+|acm023|James Martens            |      -2  -1         |0    0|
+|acm034|Martin Stolle            |      -1          -2 |0    0|
+|acm031|Kenson Yee               |      -9             |0    0|
+|acm046|Jake Martin              |     -13             |0    0|
+|acm077|Ting Wei_ Lee            |      -6             |0    0|
+|acm007|Alexandre Koff           |     -10             |0    0|
+|acm011|Tom Ootjers              |      -5             |0    0|
+|acm051|Adam Lein                |          -1         |0    0|
+|acm079|                         |     -10             |0    0|
+|acm072|Vinayak                  |      -6             |0    0|
+|acm049|Alan Dai                 |      -2             |0    0|
+|acm075|Sarah Rowe               |          -4         |0    0|
+|acm040|Enamul Haque             |          -6         |0    0|
+|acm076|Bradley Yee              |      -3             |0    0|
+|acm050|Nikola Altiparmakov      |      -3             |0    0|
+|acm005|Baskar Puvanathasan      |              -1     |0    0|
+|acm014|salik                    |                     |0    0|
+|acm018|Pratik Dhrona            |                     |0    0|
+|acm026|Duat Le                  |                     |0    0|
+|acm029|Ihab Khalili             |                     |0    0|
+|acm030|McGill A                 |                     |0    0|
+|acm032|Ondrej Lhotak            |                     |0    0|
+|acm035|Blagoy Dimitrov Solakov  |                     |0    0|
+|acm037|Daniel Morton            |                     |0    0|
+|acm042|xu zhu                   |                     |0    0|
+|acm043|Staloo gulp dumplings    |                     |0    0|
+|acm045|Xu Peilai                |                     |0    0|
+|acm048|Eddie Ng                 |                     |0    0|
+|acm055|Rahul Paul               |                     |0    0|
+|acm056|Jamie Madill             |                     |0    0|
+|acm058|Dushyant Bansal          |                     |0    0|
+|acm059|anup kalbalia            |                     |0    0|
+|acm060|Mayank Jaiswal           |                     |0    0|
+|acm061|Sandeep Kumar Dhouchak   |                     |0    0|
+|acm063|Brian Smith              |                     |0    0|
+|acm067|Lambo Jayapalan          |                     |0    0|
+|acm073|Collin Chan              |                     |0    0|
+|acm074|Robert Kitts             |                     |0    0|
+|acm078|                         |                     |0    0|
+|acm080|                         |                     |0    0|
+|acm081|                         |                     |0    0|
+|acm082|                         |                     |0    0|
+|acm083|                         |                     |0    0|
+|acm084|                         |                     |0    0|
+|acm085|                         |                     |0    0|
+|acm086|                         |                     |0    0|
+|acm087|                         |                     |0    0|
+|acm088|                         |                     |0    0|
+|acm089|                         |                     |0    0|
+|acm090|                         |                     |0    0|
+|acm091|                         |                     |0    0|
+|acm092|                         |                     |0    0|
+|acm093|                         |                     |0    0|
+|acm094|                         |                     |0    0|
+|acm095|                         |                     |0    0|
+|acm096|                         |                     |0    0|
+|acm097|                         |                     |0    0|
+|acm098|                         |                     |0    0|
+|acm099|                         |                     |0    0|
+|acm100|                         |                     |0    0|
++------+-------------------------+---------------------+------+

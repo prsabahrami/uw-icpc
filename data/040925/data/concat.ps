@@ -1,0 +1,14 @@
+%!
+/prun { /mysave save def       % Performs a save before running the PS file
+        dup = flush            % Shows name of PS file being run
+        run                % Calls built in Distiller procedure
+        clear cleardictstack   % Cleans up after PS file
+        mysave restore         % Restores save level
+} def
+
+(AA.ps) prun
+(A.ps) prun
+(B.ps) prun
+(C.ps) prun
+(D.ps) prun
+(E.ps) prun

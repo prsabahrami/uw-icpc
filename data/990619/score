@@ -1,0 +1,27 @@
+
++------+-------------------------+---------------------+------+
+|userid|        Team Name        |  A   B   C   D   E  | Total|
++------+-------------------------+---------------------+------+
+|acm004|Ondrej Lhotak            |  31      33     178 |3  242|
+|acm011|Soroosh Yazdani          |  42      15     207 |3  264|
+|acm006|Jeff Shute               |  90      52     145 |3  287|
+|acm003|Donny Cheung             |  37      99     224 |3  360|
+|acm022|Viet-Trung Luu           |  40      10         |2   50|
+|acm008|Wai Min Yee              |  55      23         |2   78|
+|acm019|Christopher Allen        |  25      67         |2   92|
+|acm001|Jasmin Patry             | 127      20         |2  147|
+|acm015|Alex Stewart             | 133      28         |2  161|
+|acm014|Dale Nesbitt             | 214     410         |2  624|
+|acm012|Liam Quinn               |          44         |1   44|
+|acm010|Jason Smulevitch         |          60         |1   60|
+|acm017|Mark McKay               |         108         |1  108|
+|acm016|Daniel Tripp             |         147         |1  147|
+|acm002|Eran Guendelman          |         174         |1  174|
+|acm005|Michael Lam              |                     |0    0|
+|acm007|Cindy Wong               |                     |0    0|
+|acm009|David Robins             |                     |0    0|
+|acm013|Ahilan Sinnarajah        |                     |0    0|
+|acm018|Steve Hanov              |                     |0    0|
+|acm020|Gordon Cormack           |                     |0    0|
+|acm021|Brian Kettlewell         |                     |0    0|
++------+-------------------------+---------------------+------+

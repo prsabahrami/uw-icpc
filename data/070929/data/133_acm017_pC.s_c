@@ -1,0 +1,29 @@
+(require (lib "list.ss"))
+
+(define read-ints (lambda (n)
+  (if (eq? n 0) '()
+    (cons (read) (read-ints (- n 1))))))
+
+(define doit (lambda (d k)
+  (if (eq? d '()) 0
+    (if (eq? k '()) -11111111111111
+      (if (< (car k) (car d)) (doit d (cdr k))
+	(+ (car k) (doit (cdr d) (cdr k))))))))
+
+(define doit2 (lambda ()
+  (letrec (
+    (n (read))
+    (m (read))
+    (dragons (sort (read-ints n) <))
+    (knights (sort (read-ints m) <))
+    (x (doit dragons knights)))
+    (if (eq? n 0) #f (begin
+    (if (< x 0) (display "Loowater is doomed!")
+      (display x))
+    (newline) #t)))))
+
+(define main (lambda ()
+  (if (doit2) (main))))
+
+(main)
+  

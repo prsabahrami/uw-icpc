@@ -1,0 +1,59 @@
+September 28, 2002
+
+Combined Waterloo and Alberta results
+
+   +------+-------------------------+---------------------+------+
+   | Alta |Gilbert Lee              | 186  27  71   5 117 |5  406|
+   |acm016|Lars Hellsten            | 177 178  39   4  88 |5  486|
+   +------+-------------------------+---------------------+------+
+   |acm022|Denis Dmitriev           |  -1  84  84   7  33 |4  208|
+   | Alta |Jason Klaus              |     143 179  33  43 |4  398|
+   |acm017|Matei Zaharia            |     164 232  44 121 |4  561|
+   |acm039|Neil Girdhar             |     185  32  10 370 |4  597|
+   +------+-------------------------+---------------------+------+
+   | Alta |Scott Crosswhite         |  -1  68       7  57 |3  132|
+   |acm013|Bryan Chan               |     168  -3   7  39 |3  214|
+   |acm009|Gordon Chiu              |      -8 190   7  35 |3  232|
+   |acm015|Stephan Lachowsky        |     156      14 127 |3  297|
+   | Alta |Ashley Zinyk             |     157      11 175 |3  343|
+   |acm057|John Pang                |     170      21 175 |3  366|
+   | Alta |Brian Lau                |     190      13 243 |3  446|
+   +------+-------------------------+---------------------+------+
+   | Alta |Broderick Arnes          |      -1       4  34 |2   38|
+   |acm008|Shuo Xiang               |              22  87 |2  109|
+   |acm002|Jonathan Lee             |               7 104 |2  111|
+   |acm066|Farhad Roueintan         |              18 112 |2  130|
+   |acm027|William Alex Stevenson   |  -2          36  96 |2  132|
+   |acm028|Trevor Hogan             |              25 113 |2  138|
+   |acm001|Tamas Zsebe              |          -3  17 142 |2  159|
+   |acm052|James Schofield          |  -1          12 151 |2  163|
+   |acm010|Cory Fletcher            |      -1       8 158 |2  166|
+   |acm003|Matthew Nichols          |      -1      14 169 |2  183|
+   |acm046|Jake Martin              |              16 173 |2  189|
+   |acm006|Samuel Wong              |          -1   9 189 |2  198|
+   |acm024|Ryan Hadley              |          -1  14 205 |2  219|
+   |acm019|Steven Corkey            |     179      42     |2  221|
+   |acm044|Marcin Mika              |     224       8  -2 |2  232|
+   |acm047|Jason Wong               |              88 149 |2  237|
+   |acm023|James Martens            |  -4 215      28     |2  243|
+   |acm020|Jason Thean              |          -1 128 118 |2  246|
+   |acm038|William Slofstra         |              12 234 |2  246|
+   | Alta |Christopher Procter      |      -1      31 222 |2  253|
+   |acm050|Nikola Altiparmakov      |     231  -3  25     |2  256|
+   |acm069|Ali Baba                 |              26 239 |2  265|
+   |acm064|Thomas Mulcahy           |              41 253 |2  294|
+   +------+-------------------------+---------------------+------+
+   |acm007|Alexandre Koff           |              12 -10 |1   12|
+   |acm051|Adam Lein                |  -2  -2      13  -2 |1   13|
+   |acm048|Eddie Ng                 |      -2  -1  13  -4 |1   13|
+   | Alta |Jonathan Yip             |              20  -1 |1   20|
+   |acm011|Tom Ootjers              |              20  -5 |1   20|
+   |acm012|Adrian Tang              |      -3      22  -4 |1   22|
+   |acm005|Baskar Puvanathasan      |              28  -1 |1   28|
+   |acm036|Tor Myklebuist           |      -5      31  -3 |1   31|
+   |acm070|Kartikaya Gupta          |              36  -5 |1   36|
+   |acm054|Sujeevan Rajayogam       |              41  -1 |1   41|
+   |acm021|Peter Lloyd              |          -1  43     |1   43|
+   |acm071|Alex Kennberg            |      -3      51  -2 |1   51|
+   |acm087|Jennifer Shaw            |              54  -2 |1   54|
+   |acm079|Denis Nguyen             |             105  -4 |1  105|
