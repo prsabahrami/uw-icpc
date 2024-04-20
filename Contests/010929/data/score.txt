@@ -1,0 +1,80 @@
+
++------+-------------------------+---------------------+------+
+|userid|        Team Name        |  A   B   C   D   E  | Total|
++------+-------------------------+---------------------+------+
+|acm058|Jeff Shute               |  31 177  69 149  63 |5  489|
+|acm048|Lars Hellsten            |  68  -1 126      15 |3  209|
+|acm057|Ming-Yee Iu              |  78     148      21 |3  247|
+|acm009|Gordon Chiu              | 140     152      22 |3  314|
+|acm065|Bryan Chan               |  65     193     172 |3  430|
+|acm027|Graeme Kemkes            |  67      -6      20 |2   87|
+|acm002|Denis Dmitriev           |  93  -2          14 |2  107|
+|acm003|Matthew Nichols          | 102              46 |2  148|
+|acm039|William Slofstra         | 169              44 |2  213|
+|acm005|Adrian Tang              | 143              77 |2  220|
+|acm061|Min Yee                  | 189              33 |2  222|
+|acm013|Felix Kwok               | 171              81 |2  252|
+|acm029|John Admanski            | 165             102 |2  267|
+|acm050|Jonathan Lee             | 248              48 |2  296|
+|acm004|Jamie Madill             |  -4              19 |1   19|
+|acm026|Jason Wong               |      -1          34 |1   34|
+|acm018|Ryan Hadley              |              -5  38 |1   38|
+|acm035|Stephan Lachowsky        |                  45 |1   45|
+|acm074|Bistra Dilkina           |  -2              62 |1   62|
+|acm073|Ian White                |          -7      70 |1   70|
+|acm072|Matthew Leduc            |  -1              75 |1   75|
+|acm007|Tamas Zsebe              |                  78 |1   78|
+|acm010|Aaron Severn             |  -4      -1      89 |1   89|
+|acm041|Jake Martin              |  -1             101 |1  101|
+|acm036|Samuel Wong              |                 117 |1  117|
+|acm019|Joe Rideout              |                 159 |1  159|
+|acm056|Brad Bart                |  -3 178             |1  178|
+|acm015|Martin Stolle            |                 193 |1  193|
+|acm068|Paul Turner              |                 246 |1  246|
+|acm001|Grodzevich Oleg          |                     |0    0|
+|acm006|Momen Mokhtari           |  -2              -4 |0    0|
+|acm008|Nikhil Kanwar            |                     |0    0|
+|acm011|Stefanus Du Toit         |                     |0    0|
+|acm012|Graham Duke              |                     |0    0|
+|acm014|unused                   |                     |0    0|
+|acm016|Bryan Chan               |                     |0    0|
+|acm017|Philip Yang              |                  -4 |0    0|
+|acm020|Ondrej Lhotak            |                     |0    0|
+|acm021|Imran Masud              |                     |0    0|
+|acm022|Thian-Peng Ter           |                     |0    0|
+|acm023|Thian-Peng Ter           |                  -7 |0    0|
+|acm024|Eugene Osovetsky         |                     |0    0|
+|acm025|Maswood Hasan Mostafi    |                     |0    0|
+|acm028|Zhang Sheng              |                     |0    0|
+|acm030|Matt Ouyang              |                     |0    0|
+|acm031|Andriy Mnih              |                     |0    0|
+|acm032|Rubel Mohajan            |                     |0    0|
+|acm033|Rubel Mohajan            |                     |0    0|
+|acm034|Julie Lavoie             |                     |0    0|
+|acm037|Bryce Moore              |                     |0    0|
+|acm038|Thanh Vo                 |                  -6 |0    0|
+|acm040|James Stewart            |                     |0    0|
+|acm042|Brad Chomosky            |                     |0    0|
+|acm043|Syed Monowar Hossain     |                     |0    0|
+|acm044|Robert kurl              |                     |0    0|
+|acm045|Tom Ootjers              |                 -10 |0    0|
+|acm046|Jingyu Wei               |                     |0    0|
+|acm047|Nabeel Kaushal           |                  -4 |0    0|
+|acm049|Neil Girdhar             |                     |0    0|
+|acm051|Dwight Tomalty           |                     |0    0|
+|acm052|tanvir mahmud            |                     |0    0|
+|acm053|Michael Grosman          |                     |0    0|
+|acm054|Razvan Trufasiu          |                     |0    0|
+|acm055|Pedram Khademsameni      |                     |0    0|
+|acm059|Imran Masud              |                     |0    0|
+|acm060|Keith Ellul              |                     |0    0|
+|acm062|Andrew Roth              |                     |0    0|
+|acm063|Bogdan Moldovan          |                     |0    0|
+|acm064|extra                    |                     |0    0|
+|acm066|extra                    |                     |0    0|
+|acm067|extra                    |                     |0    0|
+|acm069|Matthew Putter           |                     |0    0|
+|acm070|Jae Young Chung          |                     |0    0|
+|acm071|big                      |                     |0    0|
+|acm075|imran                    |                     |0    0|
++------+-------------------------+---------------------+------+

@@ -1,0 +1,7 @@
+rm -f C.1.dat
+Cgen 1000 300 | sed -e '/^0$/d' >> C.1.dat
+Cgen 1000 1000 | sed -e '/^0$/d' >> C.1.dat
+Cgen 1000 3000 | sed -e '/^0$/d' >> C.1.dat
+Cgen 1000 10000 | sed -e '/^0$/d' >> C.1.dat
+Cgen 1000 14421 | sed -e '/^0$/d' >> C.1.dat
+Cgen 1000 14721 >> C.1.dat
