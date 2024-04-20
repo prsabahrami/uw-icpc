@@ -1,0 +1,32 @@
+#!/bin/bash
+
+set -e
+
+# converts contest data from polygon
+
+# 1) In polygon, go to each individual problem and download the ***Linux*** package.
+#    Note: To get polygon to generate the Linux package, click on "create package ***Full***"
+# 2) Rename each zip to A.zip, B.zip, C.zip, etc. Put them under the polygon/ directory.
+# 3) Run this script.
+
+# Does not handle checkers.
+
+# Does not import problem statements. Polygon seems to generate broken pdfs in the Linux packages.
+# Need to deal with problem statements by hand.
+# To generate problem statements, the least broken way to make Polygon
+# do it is to click "Preview Statements as PDF: English (from packages)"
+
+for i in A B C D E; do
+	mkdir -p polygon/$i
+	cd polygon/$i
+	unzip ../$i.zip
+	cd -
+	cd polygon/$i/tests
+	for j in [0-9][0-9]; do
+		cp $j ../../../$i.$j.dat
+		cp $j.a ../../../$i.$j.diff
+	done
+	cd -
+done
+
+

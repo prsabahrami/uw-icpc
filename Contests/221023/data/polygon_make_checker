@@ -1,0 +1,16 @@
+#!/bin/bash
+
+set -e
+
+PROB=$1
+
+if [ "$PROB" = "A" ] || [ "$PROB" = "B" ] || [ "$PROB" = "C" ] || [ "$PROB" = "D" ] || [ "$PROB" = "E" ]; then
+    cd polygon/$PROB
+    cp ~/testlib/testlib.h .
+    g++-9 -std=gnu++11   check.c*   -o check
+    cd -
+    cp polygon/$PROB/check $PROB.polygon.checker
+    for i in $PROB.*.dat; do ln -s polygon_checker_wrapper ${i/dat/cmd}; done
+else
+    echo Run with the problem letter, e.g. $0 A
+fi
